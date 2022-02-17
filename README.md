@@ -1,1 +1,1 @@
-HW Java Script
+HW JavaScript
