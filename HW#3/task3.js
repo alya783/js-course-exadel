@@ -6,7 +6,6 @@ class Zoo{
         this.ticketPrice = ticketPrice;
         this.workers = [];
         this.animals = [];
-    
     }
 
     get curAddress(){
