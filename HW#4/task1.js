@@ -12,7 +12,7 @@ function currencyConvertor(amount, currency){
             })
 }
  
-currencyConvertor(40, "PLN").then(response => console.log(response));
+currencyConvertor(40, "EUR").then(response => console.log(response));
 
 
 
