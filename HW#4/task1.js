@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 import fetch from 'node-fetch';
 
 function currencyConvertor(amount, currency){
