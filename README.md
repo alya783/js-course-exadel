@@ -1,1 +1,1 @@
-## All homework tasks is on HW branhes
+## All homework tasks are on HW branhes
